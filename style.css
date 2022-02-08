@@ -48,3 +48,12 @@ body{
     font-size: 40px;
     text-align: center;
 }
+.logo{
+    width: 20px;
+    height: 20px;
+}
+.footer{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+}
